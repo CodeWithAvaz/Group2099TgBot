@@ -1,1 +1,1 @@
-API_TOKEN = "7454738618:AAHVKvrTliv6vlraGnvOnOqoPW_PuDUSCF4"
+API_TOKEN = "Toek quy mazgi"
